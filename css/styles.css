@@ -1,0 +1,78 @@
+    body {
+        background-color: #faeae8;
+        margin: 0;
+        text-align: left;
+        margin-left: 15%;
+        margin-right: 15%;
+    }
+    
+    hr {
+        border-color: gray;
+        border-style: none;
+        border-top-style: dotted;
+        width: 40%;
+        border-width: 2px;
+    }
+    
+    h1 {
+        color: #3C1414;
+    }
+    /* text */
+    /* --------------class------------------- */
+    
+    .greeting {
+        margin-left: 5%;
+        font-family: 'Edu NSW ACT Foundation', cursive;
+        font-size: 45px;
+    }
+    
+    .introduction {
+        font-family: 'Teko', sans-serif;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+    
+    .volunteer {
+        font-family: 'Teko', sans-serif;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+    
+    .job_description {
+        font-size: 18px;
+        font-family: 'Teko', sans-serif;
+    }
+    
+    .name_1 {
+        text-decoration: underline;
+    }
+    
+    .circular {
+        border-radius: 6%;
+    }
+    
+    .contact {
+        text-align: center;
+    }
+    
+    .centered {
+        align-items: center;
+        width: 80% auto;
+    }
+    /* --------------id------------------- */
+    
+    #welcome {
+        color: burlywood;
+        font-size: 50px;
+        text-align: center;
+        font-weight: 100;
+    }
+    
+    #macalester_pic {
+        width: 100%;
+    }
+    
+    .social_media {
+        align-items: center;
+        text-align: center;
+    }

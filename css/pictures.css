@@ -1,0 +1,26 @@
+.tri {
+    padding-top: 5%;
+}
+
+.tri_1 {
+    height: 45%;
+    width: 30%;
+    align-items: center;
+    padding-left: 15%;
+    padding-right: 5%;
+}
+
+.tri_1:hover {
+    color: black;
+}
+
+.tri_2 {
+    height: 45%;
+    width: 30%;
+    align-items: center;
+}
+
+.tri_macalester {
+    height: 70vh;
+    width: 69vw;
+}
